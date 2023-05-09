@@ -18,6 +18,9 @@ https://codepen.io/Samuel_D4C/pen/wvYmjGd
   transition-timing-function:step;
   transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
   /*https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function*/
+  
+  background-img: cross-fade(url(), url(), 50%)
+  backgroun: linear-gradient()
   ```
   
   JS
